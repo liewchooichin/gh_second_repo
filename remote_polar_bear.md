@@ -19,3 +19,14 @@ Polar bear is **sad**. Poles are getting **warmer**.
 | Polar bear | North poles | Furrry | Curious |
 | Penguin | South poles | Slicky | Playful |
 | Crocodile | River | Fierce | Sneaky |
+
+### Table is interesting.
+I will create one more.
+
+| Food | Color | Type |
+| --- | --- | --- |
+| Bread | light brown | soft |
+| Leafy veg | green | soft and chwey |
+| Pea | green | strong taste |
+| Carrrot | orange | hard when not cooked |
+| Corn | yellow | fresh corn is crunchy |
